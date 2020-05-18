@@ -1,5 +1,5 @@
 # iNeuron-BIT7
-## Assignments <br>
+## Assignment1 <br>
 ## a. Power BI Desktop: <br>
 Power BI Desktop is free per user and need an official(organizational) email id for publishing reports to Power BI service <br>
  
